@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/astuti-km/Leetcode_problem-/tree/master/0012-integer-to-roman) |
 | [0347-top-k-frequent-elements](https://github.com/astuti-km/Leetcode_problem-/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/astuti-km/Leetcode_problem-/tree/master/0383-ransom-note) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/astuti-km/Leetcode_problem-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/astuti-km/Leetcode_problem-/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/astuti-km/Leetcode_problem-/tree/master/0383-ransom-note) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/astuti-km/Leetcode_problem-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/astuti-km/Leetcode_problem-/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/astuti-km/Leetcode_problem-/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/astuti-km/Leetcode_problem-/tree/master/0168-excel-sheet-column-title) |
+| [0383-ransom-note](https://github.com/astuti-km/Leetcode_problem-/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
