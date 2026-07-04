@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/astuti-km/Leetcode_problem-/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/astuti-km/Leetcode_problem-/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/astuti-km/Leetcode_problem-/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/astuti-km/Leetcode_problem-/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/astuti-km/Leetcode_problem-/tree/master/0168-excel-sheet-column-title) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/astuti-km/Leetcode_problem-/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/astuti-km/Leetcode_problem-/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/astuti-km/Leetcode_problem-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/astuti-km/Leetcode_problem-/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/astuti-km/Leetcode_problem-/tree/master/0168-excel-sheet-column-title) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/astuti-km/Leetcode_problem-/tree/master/0347-top-k-frequent-elements) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/astuti-km/Leetcode_problem-/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
