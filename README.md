@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/astuti-km/Leetcode_problem-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/astuti-km/Leetcode_problem-/tree/master/0012-integer-to-roman) |
 | [0347-top-k-frequent-elements](https://github.com/astuti-km/Leetcode_problem-/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/astuti-km/Leetcode_problem-/tree/master/0383-ransom-note) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/astuti-km/Leetcode_problem-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/astuti-km/Leetcode_problem-/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/astuti-km/Leetcode_problem-/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/astuti-km/Leetcode_problem-/tree/master/0058-length-of-last-word) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/astuti-km/Leetcode_problem-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/astuti-km/Leetcode_problem-/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
