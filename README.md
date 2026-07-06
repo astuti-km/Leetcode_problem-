@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/astuti-km/Leetcode_problem-/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/astuti-km/Leetcode_problem-/tree/master/0189-rotate-array) |
 | [0347-top-k-frequent-elements](https://github.com/astuti-km/Leetcode_problem-/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/astuti-km/Leetcode_problem-/tree/master/0455-assign-cookies) |
@@ -121,4 +122,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/astuti-km/Leetcode_problem-/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/astuti-km/Leetcode_problem-/tree/master/0054-spiral-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/astuti-km/Leetcode_problem-/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
