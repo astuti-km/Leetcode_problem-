@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/astuti-km/Leetcode_problem-/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/astuti-km/Leetcode_problem-/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/astuti-km/Leetcode_problem-/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/astuti-km/Leetcode_problem-/tree/master/0171-excel-sheet-column-number) |
 | [0383-ransom-note](https://github.com/astuti-km/Leetcode_problem-/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/astuti-km/Leetcode_problem-/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/astuti-km/Leetcode_problem-/tree/master/0392-is-subsequence) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/astuti-km/Leetcode_problem-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/astuti-km/Leetcode_problem-/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/astuti-km/Leetcode_problem-/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/astuti-km/Leetcode_problem-/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/astuti-km/Leetcode_problem-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/astuti-km/Leetcode_problem-/tree/master/0204-count-primes) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/astuti-km/Leetcode_problem-/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
