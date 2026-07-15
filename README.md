@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/astuti-km/Leetcode_problem-/tree/master/0016-3sum-closest) |
 | [0054-spiral-matrix](https://github.com/astuti-km/Leetcode_problem-/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/astuti-km/Leetcode_problem-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/astuti-km/Leetcode_problem-/tree/master/0204-count-primes) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/astuti-km/Leetcode_problem-/tree/master/0016-3sum-closest) |
 | [0125-valid-palindrome](https://github.com/astuti-km/Leetcode_problem-/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/astuti-km/Leetcode_problem-/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/astuti-km/Leetcode_problem-/tree/master/0392-is-subsequence) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/astuti-km/Leetcode_problem-/tree/master/0016-3sum-closest) |
 | [0147-insertion-sort-list](https://github.com/astuti-km/Leetcode_problem-/tree/master/0147-insertion-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/astuti-km/Leetcode_problem-/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/astuti-km/Leetcode_problem-/tree/master/0389-find-the-difference) |
