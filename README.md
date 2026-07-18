@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/astuti-km/Leetcode_problem-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/astuti-km/Leetcode_problem-/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/astuti-km/Leetcode_problem-/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/astuti-km/Leetcode_problem-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/astuti-km/Leetcode_problem-/tree/master/0746-min-cost-climbing-stairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/astuti-km/Leetcode_problem-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/astuti-km/Leetcode_problem-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/astuti-km/Leetcode_problem-/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/astuti-km/Leetcode_problem-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/astuti-km/Leetcode_problem-/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/astuti-km/Leetcode_problem-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/astuti-km/Leetcode_problem-/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/astuti-km/Leetcode_problem-/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/astuti-km/Leetcode_problem-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/astuti-km/Leetcode_problem-/tree/master/0204-count-primes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/astuti-km/Leetcode_problem-/tree/master/0628-maximum-product-of-three-numbers) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/astuti-km/Leetcode_problem-/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/astuti-km/Leetcode_problem-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
