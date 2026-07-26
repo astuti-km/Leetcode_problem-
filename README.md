@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/astuti-km/Leetcode_problem-/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/astuti-km/Leetcode_problem-/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/astuti-km/Leetcode_problem-/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/astuti-km/Leetcode_problem-/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/astuti-km/Leetcode_problem-/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/astuti-km/Leetcode_problem-/tree/master/0628-maximum-product-of-three-numbers) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/astuti-km/Leetcode_problem-/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/astuti-km/Leetcode_problem-/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/astuti-km/Leetcode_problem-/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/astuti-km/Leetcode_problem-/tree/master/0389-find-the-difference) |
 ## Heap (Priority Queue)
 |  |
@@ -193,4 +195,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/astuti-km/Leetcode_problem-/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/astuti-km/Leetcode_problem-/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
