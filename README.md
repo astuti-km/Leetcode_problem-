@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/astuti-km/Leetcode_problem-/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/astuti-km/Leetcode_problem-/tree/master/0605-can-place-flowers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/astuti-km/Leetcode_problem-/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/astuti-km/Leetcode_problem-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/astuti-km/Leetcode_problem-/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/astuti-km/Leetcode_problem-/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/astuti-km/Leetcode_problem-/tree/master/0409-longest-palindrome) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/astuti-km/Leetcode_problem-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/astuti-km/Leetcode_problem-/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 ## Math
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/astuti-km/Leetcode_problem-/tree/master/0343-integer-break) |
 | [0441-arranging-coins](https://github.com/astuti-km/Leetcode_problem-/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/astuti-km/Leetcode_problem-/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/astuti-km/Leetcode_problem-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/astuti-km/Leetcode_problem-/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/astuti-km/Leetcode_problem-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
