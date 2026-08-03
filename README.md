@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/astuti-km/Leetcode_problem-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/astuti-km/Leetcode_problem-/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/astuti-km/Leetcode_problem-/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/astuti-km/Leetcode_problem-/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/astuti-km/Leetcode_problem-/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/astuti-km/Leetcode_problem-/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/astuti-km/Leetcode_problem-/tree/master/0389-find-the-difference) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/astuti-km/Leetcode_problem-/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/astuti-km/Leetcode_problem-/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/astuti-km/Leetcode_problem-/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/astuti-km/Leetcode_problem-/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/astuti-km/Leetcode_problem-/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/astuti-km/Leetcode_problem-/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/astuti-km/Leetcode_problem-/tree/master/0392-is-subsequence) |
