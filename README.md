@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/astuti-km/Leetcode_problem-/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/astuti-km/Leetcode_problem-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/astuti-km/Leetcode_problem-/tree/master/0204-count-primes) |
+| [0313-super-ugly-number](https://github.com/astuti-km/Leetcode_problem-/tree/master/0313-super-ugly-number) |
 | [0347-top-k-frequent-elements](https://github.com/astuti-km/Leetcode_problem-/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/astuti-km/Leetcode_problem-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/astuti-km/Leetcode_problem-/tree/master/0455-assign-cookies) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/astuti-km/Leetcode_problem-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/astuti-km/Leetcode_problem-/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/astuti-km/Leetcode_problem-/tree/master/0292-nim-game) |
+| [0313-super-ugly-number](https://github.com/astuti-km/Leetcode_problem-/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/astuti-km/Leetcode_problem-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/astuti-km/Leetcode_problem-/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/astuti-km/Leetcode_problem-/tree/master/0343-integer-break) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/astuti-km/Leetcode_problem-/tree/master/0070-climbing-stairs) |
+| [0313-super-ugly-number](https://github.com/astuti-km/Leetcode_problem-/tree/master/0313-super-ugly-number) |
 | [0338-counting-bits](https://github.com/astuti-km/Leetcode_problem-/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/astuti-km/Leetcode_problem-/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/astuti-km/Leetcode_problem-/tree/master/0392-is-subsequence) |
