@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/astuti-km/Leetcode_problem-/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/astuti-km/Leetcode_problem-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/astuti-km/Leetcode_problem-/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/astuti-km/Leetcode_problem-/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/astuti-km/Leetcode_problem-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/astuti-km/Leetcode_problem-/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2235-add-two-integers](https://github.com/astuti-km/Leetcode_problem-/tree/master/2235-add-two-integers) |
