@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/astuti-km/Leetcode_problem-/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/astuti-km/Leetcode_problem-/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/astuti-km/Leetcode_problem-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/astuti-km/Leetcode_problem-/tree/master/0040-combination-sum-ii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/astuti-km/Leetcode_problem-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/astuti-km/Leetcode_problem-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/astuti-km/Leetcode_problem-/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/astuti-km/Leetcode_problem-/tree/master/0202-happy-number) |
