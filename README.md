@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/astuti-km/Leetcode_problem-/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/astuti-km/Leetcode_problem-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/astuti-km/Leetcode_problem-/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/astuti-km/Leetcode_problem-/tree/master/0412-fizz-buzz) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/astuti-km/Leetcode_problem-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/astuti-km/Leetcode_problem-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/astuti-km/Leetcode_problem-/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/astuti-km/Leetcode_problem-/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/astuti-km/Leetcode_problem-/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/astuti-km/Leetcode_problem-/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/astuti-km/Leetcode_problem-/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/astuti-km/Leetcode_problem-/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/astuti-km/Leetcode_problem-/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/astuti-km/Leetcode_problem-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/astuti-km/Leetcode_problem-/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/astuti-km/Leetcode_problem-/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/astuti-km/Leetcode_problem-/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/astuti-km/Leetcode_problem-/tree/master/0412-fizz-buzz) |
 ## Matrix
 |  |
 | ------- |
