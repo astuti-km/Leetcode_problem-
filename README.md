@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/astuti-km/Leetcode_problem-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/astuti-km/Leetcode_problem-/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/astuti-km/Leetcode_problem-/tree/master/0441-arranging-coins) |
+| [0464-can-i-win](https://github.com/astuti-km/Leetcode_problem-/tree/master/0464-can-i-win) |
 | [0507-perfect-number](https://github.com/astuti-km/Leetcode_problem-/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/astuti-km/Leetcode_problem-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/astuti-km/Leetcode_problem-/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -185,11 +186,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/astuti-km/Leetcode_problem-/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/astuti-km/Leetcode_problem-/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/astuti-km/Leetcode_problem-/tree/master/0392-is-subsequence) |
+| [0464-can-i-win](https://github.com/astuti-km/Leetcode_problem-/tree/master/0464-can-i-win) |
 | [0746-min-cost-climbing-stairs](https://github.com/astuti-km/Leetcode_problem-/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/astuti-km/Leetcode_problem-/tree/master/0070-climbing-stairs) |
+| [0464-can-i-win](https://github.com/astuti-km/Leetcode_problem-/tree/master/0464-can-i-win) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/astuti-km/Leetcode_problem-/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/astuti-km/Leetcode_problem-/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/astuti-km/Leetcode_problem-/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0464-can-i-win](https://github.com/astuti-km/Leetcode_problem-/tree/master/0464-can-i-win) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/astuti-km/Leetcode_problem-/tree/master/0292-nim-game) |
+| [0464-can-i-win](https://github.com/astuti-km/Leetcode_problem-/tree/master/0464-can-i-win) |
 | [2029-stone-game-ix](https://github.com/astuti-km/Leetcode_problem-/tree/master/2029-stone-game-ix) |
 ## Recursion
 |  |
@@ -268,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/astuti-km/Leetcode_problem-/tree/master/2029-stone-game-ix) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/astuti-km/Leetcode_problem-/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
