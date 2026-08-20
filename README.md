@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/astuti-km/Leetcode_problem-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2029-stone-game-ix](https://github.com/astuti-km/Leetcode_problem-/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/astuti-km/Leetcode_problem-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/astuti-km/Leetcode_problem-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/astuti-km/Leetcode_problem-/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/astuti-km/Leetcode_problem-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/astuti-km/Leetcode_problem-/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/astuti-km/Leetcode_problem-/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/astuti-km/Leetcode_problem-/tree/master/0412-fizz-buzz) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/astuti-km/Leetcode_problem-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Matrix
 |  |
 | ------- |
