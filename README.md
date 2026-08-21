@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/astuti-km/Leetcode_problem-/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/astuti-km/Leetcode_problem-/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/astuti-km/Leetcode_problem-/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/astuti-km/Leetcode_problem-/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/astuti-km/Leetcode_problem-/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/astuti-km/Leetcode_problem-/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/astuti-km/Leetcode_problem-/tree/master/0171-excel-sheet-column-number) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/astuti-km/Leetcode_problem-/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/astuti-km/Leetcode_problem-/tree/master/0072-edit-distance) |
 | [0313-super-ugly-number](https://github.com/astuti-km/Leetcode_problem-/tree/master/0313-super-ugly-number) |
 | [0338-counting-bits](https://github.com/astuti-km/Leetcode_problem-/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/astuti-km/Leetcode_problem-/tree/master/0343-integer-break) |
