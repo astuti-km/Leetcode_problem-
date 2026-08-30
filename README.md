@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/astuti-km/Leetcode_problem-/tree/master/0746-min-cost-climbing-stairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/astuti-km/Leetcode_problem-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2029-stone-game-ix](https://github.com/astuti-km/Leetcode_problem-/tree/master/2029-stone-game-ix) |
+| [2032-two-out-of-three](https://github.com/astuti-km/Leetcode_problem-/tree/master/2032-two-out-of-three) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/astuti-km/Leetcode_problem-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/astuti-km/Leetcode_problem-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/astuti-km/Leetcode_problem-/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/astuti-km/Leetcode_problem-/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/astuti-km/Leetcode_problem-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/astuti-km/Leetcode_problem-/tree/master/0594-longest-harmonious-subsequence) |
+| [2032-two-out-of-three](https://github.com/astuti-km/Leetcode_problem-/tree/master/2032-two-out-of-three) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/astuti-km/Leetcode_problem-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/astuti-km/Leetcode_problem-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/astuti-km/Leetcode_problem-/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/astuti-km/Leetcode_problem-/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/astuti-km/Leetcode_problem-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/astuti-km/Leetcode_problem-/tree/master/0464-can-i-win) |
+| [2032-two-out-of-three](https://github.com/astuti-km/Leetcode_problem-/tree/master/2032-two-out-of-three) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
