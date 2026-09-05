@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/astuti-km/Leetcode_problem-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/astuti-km/Leetcode_problem-/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/astuti-km/Leetcode_problem-/tree/master/2235-add-two-integers) |
+| [2544-alternating-digit-sum](https://github.com/astuti-km/Leetcode_problem-/tree/master/2544-alternating-digit-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/astuti-km/Leetcode_problem-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/astuti-km/Leetcode_problem-/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/astuti-km/Leetcode_problem-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
