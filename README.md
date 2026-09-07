@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/astuti-km/Leetcode_problem-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/astuti-km/Leetcode_problem-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/astuti-km/Leetcode_problem-/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/astuti-km/Leetcode_problem-/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/astuti-km/Leetcode_problem-/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/astuti-km/Leetcode_problem-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/astuti-km/Leetcode_problem-/tree/master/0189-rotate-array) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/astuti-km/Leetcode_problem-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/astuti-km/Leetcode_problem-/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/astuti-km/Leetcode_problem-/tree/master/0046-permutations) |
 ## Minimax
 |  |
 | ------- |
