@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/astuti-km/Leetcode_problem-/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/astuti-km/Leetcode_problem-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/astuti-km/Leetcode_problem-/tree/master/0746-min-cost-climbing-stairs) |
+| [0942-di-string-match](https://github.com/astuti-km/Leetcode_problem-/tree/master/0942-di-string-match) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/astuti-km/Leetcode_problem-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2029-stone-game-ix](https://github.com/astuti-km/Leetcode_problem-/tree/master/2029-stone-game-ix) |
 | [2032-two-out-of-three](https://github.com/astuti-km/Leetcode_problem-/tree/master/2032-two-out-of-three) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/astuti-km/Leetcode_problem-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/astuti-km/Leetcode_problem-/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/astuti-km/Leetcode_problem-/tree/master/0455-assign-cookies) |
+| [0942-di-string-match](https://github.com/astuti-km/Leetcode_problem-/tree/master/0942-di-string-match) |
 ## Greedy
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/astuti-km/Leetcode_problem-/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/astuti-km/Leetcode_problem-/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/astuti-km/Leetcode_problem-/tree/master/0605-can-place-flowers) |
+| [0942-di-string-match](https://github.com/astuti-km/Leetcode_problem-/tree/master/0942-di-string-match) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/astuti-km/Leetcode_problem-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/astuti-km/Leetcode_problem-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/astuti-km/Leetcode_problem-/tree/master/2029-stone-game-ix) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/astuti-km/Leetcode_problem-/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/astuti-km/Leetcode_problem-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/astuti-km/Leetcode_problem-/tree/master/0415-add-strings) |
+| [0942-di-string-match](https://github.com/astuti-km/Leetcode_problem-/tree/master/0942-di-string-match) |
 | [1927-sum-game](https://github.com/astuti-km/Leetcode_problem-/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/astuti-km/Leetcode_problem-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/astuti-km/Leetcode_problem-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
