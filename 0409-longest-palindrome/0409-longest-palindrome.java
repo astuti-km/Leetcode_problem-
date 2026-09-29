@@ -1,25 +1,25 @@
 class Solution {
     public int longestPalindrome(String s) {
+
         int[] freq = new int[128];
-        // Count frequency of each character
+        // Count frequency
         for (char ch : s.toCharArray()) {
             freq[ch]++;
         }
         int length = 0;
-        boolean oddFound = false;
-        // Calculate palindrome length
+        boolean odd = false;
+
+        // Calc palindrome length
         for (int count : freq) {
-            if (count % 2 == 0) {
-                length += count;
-            } else {
-                length += count - 1;
-                oddFound = true;
+            length += (count / 2) * 2;
+            if (count % 2 == 1) {
+                odd = true;
             }
         }
-        // One odd character can be placed in the center
-        if (oddFound) {
+        if (odd) {
             length++;
         }
+
         return length;
     }
 }
