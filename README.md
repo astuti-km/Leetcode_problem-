@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/astuti-km/Leetcode_problem-/tree/master/0942-di-string-match) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/astuti-km/Leetcode_problem-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/astuti-km/Leetcode_problem-/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1929-concatenation-of-array](https://github.com/astuti-km/Leetcode_problem-/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/astuti-km/Leetcode_problem-/tree/master/2029-stone-game-ix) |
 | [2032-two-out-of-three](https://github.com/astuti-km/Leetcode_problem-/tree/master/2032-two-out-of-three) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/astuti-km/Leetcode_problem-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/astuti-km/Leetcode_problem-/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/astuti-km/Leetcode_problem-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/astuti-km/Leetcode_problem-/tree/master/0415-add-strings) |
+| [1929-concatenation-of-array](https://github.com/astuti-km/Leetcode_problem-/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/astuti-km/Leetcode_problem-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/astuti-km/Leetcode_problem-/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
