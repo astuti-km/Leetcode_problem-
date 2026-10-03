@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/astuti-km/Leetcode_problem-/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/astuti-km/Leetcode_problem-/tree/master/0455-assign-cookies) |
 | [0942-di-string-match](https://github.com/astuti-km/Leetcode_problem-/tree/master/0942-di-string-match) |
+| [1768-merge-strings-alternately](https://github.com/astuti-km/Leetcode_problem-/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/astuti-km/Leetcode_problem-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/astuti-km/Leetcode_problem-/tree/master/0415-add-strings) |
 | [0942-di-string-match](https://github.com/astuti-km/Leetcode_problem-/tree/master/0942-di-string-match) |
+| [1768-merge-strings-alternately](https://github.com/astuti-km/Leetcode_problem-/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/astuti-km/Leetcode_problem-/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/astuti-km/Leetcode_problem-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/astuti-km/Leetcode_problem-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
