@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/astuti-km/Leetcode_problem-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/astuti-km/Leetcode_problem-/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/astuti-km/Leetcode_problem-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/astuti-km/Leetcode_problem-/tree/master/0217-contains-duplicate) |
 | [0313-super-ugly-number](https://github.com/astuti-km/Leetcode_problem-/tree/master/0313-super-ugly-number) |
 | [0347-top-k-frequent-elements](https://github.com/astuti-km/Leetcode_problem-/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/astuti-km/Leetcode_problem-/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/astuti-km/Leetcode_problem-/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/astuti-km/Leetcode_problem-/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/astuti-km/Leetcode_problem-/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/astuti-km/Leetcode_problem-/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/astuti-km/Leetcode_problem-/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/astuti-km/Leetcode_problem-/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/astuti-km/Leetcode_problem-/tree/master/0389-find-the-difference) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/astuti-km/Leetcode_problem-/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/astuti-km/Leetcode_problem-/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/astuti-km/Leetcode_problem-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/astuti-km/Leetcode_problem-/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/astuti-km/Leetcode_problem-/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/astuti-km/Leetcode_problem-/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/astuti-km/Leetcode_problem-/tree/master/0442-find-all-duplicates-in-an-array) |
