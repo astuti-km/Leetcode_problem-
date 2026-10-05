@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/astuti-km/Leetcode_problem-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/astuti-km/Leetcode_problem-/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/astuti-km/Leetcode_problem-/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/astuti-km/Leetcode_problem-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/astuti-km/Leetcode_problem-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/astuti-km/Leetcode_problem-/tree/master/0039-combination-sum) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/astuti-km/Leetcode_problem-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/astuti-km/Leetcode_problem-/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/astuti-km/Leetcode_problem-/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/astuti-km/Leetcode_problem-/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/astuti-km/Leetcode_problem-/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/astuti-km/Leetcode_problem-/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/astuti-km/Leetcode_problem-/tree/master/0072-edit-distance) |
@@ -351,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/astuti-km/Leetcode_problem-/tree/master/0836-rectangle-overlap) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/astuti-km/Leetcode_problem-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
