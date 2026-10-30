@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/astuti-km/Leetcode_problem-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/astuti-km/Leetcode_problem-/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/astuti-km/Leetcode_problem-/tree/master/0836-rectangle-overlap) |
+| [1025-divisor-game](https://github.com/astuti-km/Leetcode_problem-/tree/master/1025-divisor-game) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/astuti-km/Leetcode_problem-/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1927-sum-game](https://github.com/astuti-km/Leetcode_problem-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/astuti-km/Leetcode_problem-/tree/master/2029-stone-game-ix) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/astuti-km/Leetcode_problem-/tree/master/0392-is-subsequence) |
 | [0464-can-i-win](https://github.com/astuti-km/Leetcode_problem-/tree/master/0464-can-i-win) |
 | [0746-min-cost-climbing-stairs](https://github.com/astuti-km/Leetcode_problem-/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/astuti-km/Leetcode_problem-/tree/master/1025-divisor-game) |
 | [3524-find-x-value-of-array-i](https://github.com/astuti-km/Leetcode_problem-/tree/master/3524-find-x-value-of-array-i) |
 ## Memoization
 |  |
@@ -319,11 +321,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/astuti-km/Leetcode_problem-/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/astuti-km/Leetcode_problem-/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/astuti-km/Leetcode_problem-/tree/master/0292-nim-game) |
 | [0464-can-i-win](https://github.com/astuti-km/Leetcode_problem-/tree/master/0464-can-i-win) |
+| [1025-divisor-game](https://github.com/astuti-km/Leetcode_problem-/tree/master/1025-divisor-game) |
 | [1927-sum-game](https://github.com/astuti-km/Leetcode_problem-/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/astuti-km/Leetcode_problem-/tree/master/2029-stone-game-ix) |
 ## Recursion
@@ -376,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/astuti-km/Leetcode_problem-/tree/master/0705-design-hashset) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/astuti-km/Leetcode_problem-/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
