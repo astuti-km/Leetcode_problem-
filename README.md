@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/astuti-km/Leetcode_problem-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/astuti-km/Leetcode_problem-/tree/master/0705-design-hashset) |
 | [0746-min-cost-climbing-stairs](https://github.com/astuti-km/Leetcode_problem-/tree/master/0746-min-cost-climbing-stairs) |
+| [0881-boats-to-save-people](https://github.com/astuti-km/Leetcode_problem-/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/astuti-km/Leetcode_problem-/tree/master/0942-di-string-match) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/astuti-km/Leetcode_problem-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/astuti-km/Leetcode_problem-/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/astuti-km/Leetcode_problem-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/astuti-km/Leetcode_problem-/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/astuti-km/Leetcode_problem-/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/astuti-km/Leetcode_problem-/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/astuti-km/Leetcode_problem-/tree/master/0942-di-string-match) |
 | [1768-merge-strings-alternately](https://github.com/astuti-km/Leetcode_problem-/tree/master/1768-merge-strings-alternately) |
 ## Greedy
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/astuti-km/Leetcode_problem-/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/astuti-km/Leetcode_problem-/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/astuti-km/Leetcode_problem-/tree/master/0605-can-place-flowers) |
+| [0881-boats-to-save-people](https://github.com/astuti-km/Leetcode_problem-/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/astuti-km/Leetcode_problem-/tree/master/0942-di-string-match) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/astuti-km/Leetcode_problem-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/astuti-km/Leetcode_problem-/tree/master/1927-sum-game) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/astuti-km/Leetcode_problem-/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/astuti-km/Leetcode_problem-/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/astuti-km/Leetcode_problem-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0881-boats-to-save-people](https://github.com/astuti-km/Leetcode_problem-/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/astuti-km/Leetcode_problem-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/astuti-km/Leetcode_problem-/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3731-find-missing-elements](https://github.com/astuti-km/Leetcode_problem-/tree/master/3731-find-missing-elements) |
@@ -395,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/astuti-km/Leetcode_problem-/tree/master/0075-sort-colors) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/astuti-km/Leetcode_problem-/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
