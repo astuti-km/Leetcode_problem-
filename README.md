@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/astuti-km/Leetcode_problem-/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/astuti-km/Leetcode_problem-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/astuti-km/Leetcode_problem-/tree/master/0455-assign-cookies) |
+| [0495-teemo-attacking](https://github.com/astuti-km/Leetcode_problem-/tree/master/0495-teemo-attacking) |
 | [0560-subarray-sum-equals-k](https://github.com/astuti-km/Leetcode_problem-/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/astuti-km/Leetcode_problem-/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/astuti-km/Leetcode_problem-/tree/master/0598-range-addition-ii) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/astuti-km/Leetcode_problem-/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/astuti-km/Leetcode_problem-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/astuti-km/Leetcode_problem-/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/astuti-km/Leetcode_problem-/tree/master/0495-teemo-attacking) |
 | [1929-concatenation-of-array](https://github.com/astuti-km/Leetcode_problem-/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/astuti-km/Leetcode_problem-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/astuti-km/Leetcode_problem-/tree/master/3498-reverse-degree-of-a-string) |
