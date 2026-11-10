@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/astuti-km/Leetcode_problem-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/astuti-km/Leetcode_problem-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/astuti-km/Leetcode_problem-/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/astuti-km/Leetcode_problem-/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/astuti-km/Leetcode_problem-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/astuti-km/Leetcode_problem-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/astuti-km/Leetcode_problem-/tree/master/0238-product-of-array-except-self) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/astuti-km/Leetcode_problem-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/astuti-km/Leetcode_problem-/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/astuti-km/Leetcode_problem-/tree/master/0560-subarray-sum-equals-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/astuti-km/Leetcode_problem-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/astuti-km/Leetcode_problem-/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/astuti-km/Leetcode_problem-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/astuti-km/Leetcode_problem-/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/astuti-km/Leetcode_problem-/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/astuti-km/Leetcode_problem-/tree/master/0441-arranging-coins) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/astuti-km/Leetcode_problem-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/astuti-km/Leetcode_problem-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/astuti-km/Leetcode_problem-/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/astuti-km/Leetcode_problem-/tree/master/0594-longest-harmonious-subsequence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/astuti-km/Leetcode_problem-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/astuti-km/Leetcode_problem-/tree/master/1838-frequency-of-the-most-frequent-element) |
