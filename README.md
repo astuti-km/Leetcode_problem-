@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/astuti-km/Leetcode_problem-/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/astuti-km/Leetcode_problem-/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/astuti-km/Leetcode_problem-/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/astuti-km/Leetcode_problem-/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/astuti-km/Leetcode_problem-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/astuti-km/Leetcode_problem-/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/astuti-km/Leetcode_problem-/tree/master/0594-longest-harmonious-subsequence) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/astuti-km/Leetcode_problem-/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/astuti-km/Leetcode_problem-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/astuti-km/Leetcode_problem-/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/astuti-km/Leetcode_problem-/tree/master/0424-longest-repeating-character-replacement) |
 | [0942-di-string-match](https://github.com/astuti-km/Leetcode_problem-/tree/master/0942-di-string-match) |
 | [1768-merge-strings-alternately](https://github.com/astuti-km/Leetcode_problem-/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/astuti-km/Leetcode_problem-/tree/master/1927-sum-game) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/astuti-km/Leetcode_problem-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/astuti-km/Leetcode_problem-/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/astuti-km/Leetcode_problem-/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/astuti-km/Leetcode_problem-/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/astuti-km/Leetcode_problem-/tree/master/0658-find-k-closest-elements) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/astuti-km/Leetcode_problem-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
