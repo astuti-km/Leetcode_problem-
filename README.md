@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/astuti-km/Leetcode_problem-/tree/master/0658-find-k-closest-elements) |
 | [0705-design-hashset](https://github.com/astuti-km/Leetcode_problem-/tree/master/0705-design-hashset) |
 | [0746-min-cost-climbing-stairs](https://github.com/astuti-km/Leetcode_problem-/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/astuti-km/Leetcode_problem-/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/astuti-km/Leetcode_problem-/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/astuti-km/Leetcode_problem-/tree/master/0942-di-string-match) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/astuti-km/Leetcode_problem-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/astuti-km/Leetcode_problem-/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/astuti-km/Leetcode_problem-/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/astuti-km/Leetcode_problem-/tree/master/0658-find-k-closest-elements) |
+| [0875-koko-eating-bananas](https://github.com/astuti-km/Leetcode_problem-/tree/master/0875-koko-eating-bananas) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/astuti-km/Leetcode_problem-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/astuti-km/Leetcode_problem-/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
